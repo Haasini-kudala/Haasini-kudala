@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Haasini Kudala 👋
 
-<!--
-**Haasini-kudala/Haasini-kudala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
 
-Here are some ideas to get you started:
+- 🎓 **Undergraduate Student** at **G. Pulla Reddy Engineering College, Kurnool**
+- 💻 Passionate about **coding** and continuously improving my programming skills
+- 🚀 Curious about **exploring new technologies** and learning how they shape the future
+- 🌱 Currently on my journey to become a better developer by building projects and learning every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+
+- 👩‍💻 Software Development
+- 🌐 Web Development
+- 📚 Learning New Technologies
+- 🔍 Problem Solving
+
+## ✨ Motto
+
+> *"Every line of code is a step toward creating something amazing."*
+
+---
+
+### 📫 Connect with Me
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey. 😊
